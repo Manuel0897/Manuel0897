@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a systems administrator Engineer with experience in teams management and software development of Web Applications Programmer. Experience in development of Neural Networks. Enthusiast of learning everything that allows me to help in the construction of the future.
+
+🔭 I’m currently working on the Frontend Development of React Applications with the use of typescript and complementing with tests in jest.
+
+📫 How to reach me: m.manuelmendoza@gmail.com
